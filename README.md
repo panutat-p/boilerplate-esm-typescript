@@ -4,6 +4,8 @@ https://github.com/vitest-dev/vitest/tree/main/packages/vite-node
 
 https://github.com/privatenumber/tsx
 
+https://vitest.dev/guide
+
 ```sh
 npm i -D typescript
 tsc --init
