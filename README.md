@@ -11,4 +11,5 @@ npm i -D vite-node
 npm i -D tsx
 npm i -D esbuild
 npm i -D prettier
+npm i -D vitest
 ```
